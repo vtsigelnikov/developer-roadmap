@@ -1,4 +1,4 @@
-# IoT hard skills reference sheet
+# Android hard skills reference sheet
 
 | Skill      | Junior         | Junior+        | Middle            | Middle+       | Senior           |
 |------------|----------------|----------------|-------------------|---------------|------------------|

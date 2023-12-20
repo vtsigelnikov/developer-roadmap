@@ -1,4 +1,4 @@
-# Frontend reference sheet
+# Frontend hard skills reference sheet
 
 | Skill      | Junior         | Junior+        | Middle            | Middle+       | Senior           |
 |------------|----------------|----------------|-------------------|---------------|------------------|

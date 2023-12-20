@@ -1,6 +1,3 @@
-## Beginner
-### Some of the sections listed below can be found on https://www.sqltutorial.org
-
 - Introduction to SQL
 - Data types
 - Querying data
@@ -11,3 +8,5 @@
 - Aggregate functions
 - Working with table structures
 - Constraints
+
+#### Some of the sections listed above can be found on https://www.sqltutorial.org

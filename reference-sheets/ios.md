@@ -1,4 +1,4 @@
-# IoT hard skills reference sheet
+# iOS hard skills reference sheet
 
 | Skill      | Junior         | Junior+        | Middle            | Middle+       | Senior           |
 |------------|----------------|----------------|-------------------|---------------|------------------|
