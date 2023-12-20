@@ -1,6 +1,6 @@
 # Backend reference sheet
 
-| Skill                         | Junior         | Junior+        | Middle            | Middle+       | Senior           |
-|-------------------------------|----------------|----------------|-------------------|---------------|------------------|
-| SQL                           | beginner       | inter          | advanced          | advanced      | expert           |
-| Data structures & algorithms  | beginner       | inter          | inter             | advanced      | expert           |
+| Skill                                                                    | Junior                                                           | Junior+                                                    | Middle                                                     | Middle+                                                          | Senior                                                       |
+|--------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|
+| [SQL](../skills/sql)                                                     | [beginner](../skills/sql/beginner.md)                            | [inter](../skills/sql/inter.md)                            | [advanced](../skills/sql/advanced.md)                      | [advanced](../skills/sql/advanced.md)                            | [expert](../skills/sql/expert.md)                            |
+| [Data structures & algorithms](../skills/data-structures-and-algorithms) | [beginner](../skills/data-structures-and-algorithms/beginner.md) | [inter](../skills/data-structures-and-algorithms/inter.md) | [inter](../skills/data-structures-and-algorithms/inter.md) | [advanced](../skills/data-structures-and-algorithms/advanced.md) | [expert](../skills/data-structures-and-algorithms/expert.md) |
