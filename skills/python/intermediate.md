@@ -5,7 +5,6 @@
   - Using Lists as Queues
   - List Comprehensions
   - Nested List Comprehensions
-  - The del statement
 - Comparing Sequences and Other Types
 - Decorators
 - Iterators 

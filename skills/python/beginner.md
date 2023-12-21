@@ -42,9 +42,10 @@
 - Classes
 - Modules
 - Packages
-- Input and Output
-- Errors and Exceptions
 - Package managers
+- Input and Output
+- Reading and Writing Files
+- Errors and Exceptions
 - Testing
 
 #### Some of the sections listed above can be found on https://docs.python.org/3.11
