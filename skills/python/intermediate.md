@@ -1,0 +1,58 @@
+- Binary Sequence Types — bytes, bytearray, memoryview
+- UUID
+- More on Lists
+  - Using Lists as Stacks
+  - Using Lists as Queues
+  - List Comprehensions
+  - Nested List Comprehensions
+  - The del statement
+- Comparing Sequences and Other Types
+- Decorators
+- Iterators 
+- Generators, Generator Compressions
+- Lambda Expressions
+- Logging
+- CSV File Reading and Writing
+- Cryptographic Services
+  - hashlib — Secure hashes and message digests
+  - hmac — Keyed-Hashing for Message Authentication
+  - secrets — Generate secure random numbers for managing secrets
+- Generic Operating System Services
+  - os
+  - io
+- Data Types
+  - calendar — General calendar-related functions
+  - heapq — Heap queue algorithm
+  - bisect — Array bisection algorithm
+  - array — Efficient arrays of numeric values
+- Data Compression and Archiving
+- Concurrent Execution
+- Networking and Interprocess Communication
+  - asyncio — Asynchronous I/O
+  - socket — Low-level networking interface
+  - ssl — TLS/SSL wrapper for socket objects
+- Internet Data Handling
+  - json — JSON encoder and decoder
+  - mimetypes — Map filenames to MIME types
+  - base64 — Base16, Base32, Base64, Base85 Data Encodings 
+  - ipaddress
+- Structured Markup Processing Tools
+  - HTML Processing Modules
+  - XML Processing Modules
+- Python Runtime Services
+  - sys — System-specific parameters and functions
+  - sysconfig — Provide access to Python’s configuration information
+  - builtins — Built-in objects
+  - __main__ — Top-level code environment
+  - warnings — Warning control
+  - dataclasses — Data Classes
+  - contextlib — Utilities for with-statement contexts
+  - abc — Abstract Base Classes
+  - atexit — Exit handlers
+  - traceback — Print or retrieve a stack traceback
+  - __future__ — Future statement definitions
+  - gc — Garbage Collector interface
+  - inspect — Inspect live objects
+  - site — Site-specific configuration hook
+
+#### Some of the sections listed above can be found on https://docs.python.org/3.11
