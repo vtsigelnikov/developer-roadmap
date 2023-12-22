@@ -15,12 +15,12 @@
   - Multiprocessing
   - Async I/O
 - Variables & Memory Management
- - References
- - Garbage collection
- - Dynamic typing
- - Mutable & Immutable objects
- - is operator
- - None
+  - References
+  - Garbage collection
+  - Dynamic typing
+  - Mutable & Immutable objects
+  - is operator
+  - None
 - Integer types
   - Integers
   - Floor division operator (//)
@@ -29,8 +29,8 @@
   - The and operator
   - The or operator 
 - Float
- - Converting float to int
- - Rounding
+  - Converting float to int
+  - Rounding
 - Decimal
 - UUID
 - Variable scopes
