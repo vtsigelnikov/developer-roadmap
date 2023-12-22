@@ -1,0 +1,9 @@
+- Key Features
+- Benefits and Limitations
+- PostgreSQL vs. Other RDBMS
+- [Functions and Operators](https://www.postgresql.org/docs/15/functions.html)
+- [Data Types](https://www.postgresql.org/docs/15/datatype.html)
+- [Indexes](https://www.postgresql.org/docs/15/indexes.html)
+- [PostgreSQL Exercises](https://pgexercises.com/)
+- psql
+- configuring

@@ -1,0 +1,9 @@
+- NoSQL
+  - document db
+  - column db
+  - timeseries db
+  - realtime db
+  - key-value db
+- ACID
+- Transactions
+- N plus one problem

@@ -1,0 +1,16 @@
+- Failure Modes
+  - Read contention
+  - Write contention
+  - Thundering herd
+  - Cascade
+  - Deadlock
+  - Corruption
+  - Hardware failure
+  - Software failure
+  - Network failure
+  - Denial of service (DoS) attack
+- Scaling
+  - indexes
+  - replication
+  - sharding strategies
+  - CAP

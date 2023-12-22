@@ -1,0 +1,8 @@
+- The Testing Pyramid
+- Unit testing
+- Integration testing
+- Functional testing
+- Smoke testing
+- Regression testing
+- Load testing
+- Performance testing

@@ -1,0 +1,4 @@
+- RDBMS
+- NoSQL
+- SQL vs NoSQL
+- Normalization
