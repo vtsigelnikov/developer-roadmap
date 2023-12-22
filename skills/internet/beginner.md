@@ -1,0 +1,7 @@
+- How does the internet work
+- what is http
+- browsers and how they work
+- dns and how it works
+- what is domain name
+- what is hosting
+- what is CDN

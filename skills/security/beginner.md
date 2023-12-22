@@ -1,0 +1,9 @@
+- Content Security Policy
+- OWASP
+- Server Security
+- SSL/TLS, HTTPS
+- CORS
+- md5
+- sha
+- bcrypt
+- scrypt

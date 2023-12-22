@@ -1,0 +1,13 @@
+- REST
+- HTTP
+  - Request methods
+  - Safe methods
+  - Idempotent methods
+  - Cacheable methods
+  - Response status codes
+- Auth
+  - Basic
+  - Cookie
+  - Token
+  - JWT
+- Documentation

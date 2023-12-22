@@ -1,0 +1,17 @@
+- Caching
+  - Web Caching (Browser/Proxy/Gateway)
+  - Data Caching.
+  - Application/Output Caching.
+  - Distributed Caching.
+- Server-Sent Events (SSE)
+- Long Polling
+- Short Polling
+- HATEOAS
+- GraphQL
+- Protocols
+  - WebSocket
+  - RPC
+  - SOAP
+- Auth
+  - OAuth
+  - SAML
