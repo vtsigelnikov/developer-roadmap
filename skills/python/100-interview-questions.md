@@ -1,0 +1,1 @@
+### [100 interview questions](https://habr.com/ru/articles/782266/)

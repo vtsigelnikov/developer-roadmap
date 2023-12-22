@@ -1,51 +1,51 @@
-- Built-in Constants
-- Built-in Types
-  - Truth Value Testing
-  - Boolean Operations — and, or, not
-  - Numeric Types — int, float, complex
-  - Sequence Types — str, list, tuple
-  - Set Types — set, frozenset
-  - Mapping Types — dict 
-  - Comparisons
-  - Casting
-- Text Processing Services
-  - Common string operations
-  - Regular expression operations
-- Data Types
-  - datetime — Basic date and time types
-  - zoneinfo — IANA time zone support
-  - collections — Container datatypes
-  - collections.abc — Abstract Base Classes for Containers
-  - types — Dynamic type creation and names for built-in types
-  - copy — Shallow and deep copy operations
-  - enum — Support for enumerations
-- Numeric and Mathematical Modules
-  - math — Mathematical functions
-  - decimal — Decimal fixed point and floating point arithmetic
-  - random — Generate pseudo-random numbers
-  - statistics — Mathematical statistics functions
-- Simple statements
-  - The assert, pass, del, return, yield, raise, break, continue, import, global, nonlocal statement
-- Compound statements
-   - if, while, for, try, pass, with, match
-   - else Clauses on Loops
-   - Looping Techniques — range(), set(), items(), enumerate(), zip(), reversed() 
-- Defining Functions
-  - Default Argument Values
-  - Keyword Arguments
+- Fundamentals
+  - Syntax
+  - Variables
+  - Strings
+  - Numbers
+  - Booleans
+  - Lists
+  - Dictionaries
+  - Sets
+  - Constants
+  - Comments
+  - Type conversion
+- Operators
+  - Comparison operators
+  - Logical operators
+- Control flow
+  - if…else statement
+  - Ternary operator
+  - for
+  - while
+  - break
+  - continue
+  - pass
+  - for…else
+  - while…else
+  - do…while loop emulation
+  - Looping Techniques — range(), set(), items(), enumerate(), zip(), reversed()
+- Input and Output
+- Functions
+  - Python functions
+  - Default parameters
+  - Keyword arguments
   - Positional-or-Keyword Arguments
   - Positional-Only Parameters
   - Keyword-Only Arguments
-- Arbitrary Argument Lists
-- Unpacking Argument Lists
-- Documentation Strings
-- Classes
-- Modules
-- Packages
-- Package managers
-- Input and Output
-- Reading and Writing Files
-- Errors and Exceptions
-- Testing
+  - Recursive functions
+  - Lambda Expressions
+  - Docstrings
+  - Unpacking tuples
+  - *args Parameters
+  - **kwargs Parameters
+  - Partial functions
+  - Type hints
+- Modules & Packages
+- Working with files
+- Working Directories
+- Third-party Packages, PIP, and Virtual Environments
 
-#### Some of the sections listed above can be found on https://docs.python.org/3.11
+#### Some of the sections listed above can be found on:
+- https://www.pythontutorial.net
+- https://docs.python.org/3.11

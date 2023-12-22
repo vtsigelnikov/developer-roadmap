@@ -1,57 +1,80 @@
-- Binary Sequence Types — bytes, bytearray, memoryview
+- OOP
+  - Classes and objects
+  - Special methods
+  - Property
+  - Single inheritance
+  - Enumeration
+  - Multiple inheritance
+  - Descriptors
+  - Metaprogramming
+  - Exception handling
+- Concurrency
+  - Multithreading
+  - Thread Synchronization Techniques
+  - Sharing Data Between Threads
+  - Multiprocessing
+  - Async I/O
+- Variables & Memory Management
+ - References
+ - Garbage collection
+ - Dynamic typing
+ - Mutable & Immutable objects
+ - is operator
+ - None
+- Integer types
+  - Integers
+  - Floor division operator (//)
+  - Modulo operator (%)
+  - bool
+  - The and operator
+  - The or operator 
+- Float
+ - Converting float to int
+ - Rounding
+- Decimal
 - UUID
-- More on Lists
+- Variable scopes
+- Closures
+- Decorators
+- Named Tuples
+- Sequence Types
+  - Lists vs. Tuples
+  - Slicing
+  - Custom Sequence Type
   - Using Lists as Stacks
   - Using Lists as Queues
   - List Comprehensions
   - Nested List Comprehensions
-- Comparing Sequences and Other Types
-- Decorators
-- Iterators 
-- Generators, Generator Compressions
-- Lambda Expressions
-- Logging
-- CSV File Reading and Writing
-- Cryptographic Services
-  - hashlib — Secure hashes and message digests
-  - hmac — Keyed-Hashing for Message Authentication
-  - secrets — Generate secure random numbers for managing secrets
-- Generic Operating System Services
-  - os
-  - io
+  - Comparing Sequences and Other Types
+  - Binary Sequence Types — bytes, bytearray, memoryview
+- Iterators and Iterables
+- Generators, Comprehension Expressions
+- Context Managers
+- Regular expression operations
+- Built-in Functions
 - Data Types
-  - calendar — General calendar-related functions
-  - heapq — Heap queue algorithm
-  - bisect — Array bisection algorithm
-  - array — Efficient arrays of numeric values
-- Data Compression and Archiving
-- Concurrent Execution
-- Networking and Interprocess Communication
-  - asyncio — Asynchronous I/O
-  - socket — Low-level networking interface
-  - ssl — TLS/SSL wrapper for socket objects
+  - datetime — Basic date and time types
+  - zoneinfo — IANA time zone support
+  - collections — Container datatypes
+  - collections.abc — Abstract Base Classes for Containers
+  - types — Dynamic type creation and names for built-in types
+  - copy — Shallow and deep copy operations
+  - enum — Support for enumerations
+- Numeric and Mathematical Modules
+  - math — Mathematical functions
+  - decimal — Decimal fixed point and floating point arithmetic
+  - random — Generate pseudo-random numbers
+  - statistics — Mathematical statistics functions
+- CSV File Reading and Writing
 - Internet Data Handling
+  - http — HTTP modules
   - json — JSON encoder and decoder
+  - urllib — URL handling modules
   - mimetypes — Map filenames to MIME types
   - base64 — Base16, Base32, Base64, Base85 Data Encodings 
-  - ipaddress
-- Structured Markup Processing Tools
-  - HTML Processing Modules
-  - XML Processing Modules
-- Python Runtime Services
-  - sys — System-specific parameters and functions
-  - sysconfig — Provide access to Python’s configuration information
-  - builtins — Built-in objects
-  - __main__ — Top-level code environment
-  - warnings — Warning control
-  - dataclasses — Data Classes
-  - contextlib — Utilities for with-statement contexts
-  - abc — Abstract Base Classes
-  - atexit — Exit handlers
-  - traceback — Print or retrieve a stack traceback
-  - __future__ — Future statement definitions
-  - gc — Garbage Collector interface
-  - inspect — Inspect live objects
-  - site — Site-specific configuration hook
+  - ipaddress — IPv4/IPv6 manipulation library
+- Logging
 
-#### Some of the sections listed above can be found on https://docs.python.org/3.11
+#### Some of the sections listed above can be found on:
+- https://www.pythontutorial.net
+- https://docs.python.org/3.11
