@@ -77,4 +77,6 @@
 
 #### Some of the sections listed above can be found on:
 - https://www.pythontutorial.net
-- https://docs.python.org/3.11
+- https://docs.python.org/3.11/tutorial
+- https://docs.python.org/3.11/library
+- https://docs.python.org/3.11/reference

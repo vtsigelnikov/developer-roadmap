@@ -2,7 +2,30 @@
 - Benefits and Limitations
 - PostgreSQL vs. Other RDBMS
 - [Functions and Operators](https://www.postgresql.org/docs/15/functions.html)
+  - Logical Operators
+  - Comparison Functions and Operators
+  - Mathematical Functions and Operators
+  - String Functions and Operators
+  - Pattern Matching
+  - Data Type Formatting Functions
+  - Date/Time Functions and Operators
+  - UUID Functions
+  - JSON Functions and Operators
+  - Conditional Expressions
+  - Array Functions and Operators
+  - Aggregate Functions
+  - Subquery Expressions
+  - Row and Array Comparisons
 - [Data Types](https://www.postgresql.org/docs/15/datatype.html)
+  - Numeric Types
+  - Monetary Types
+  - Character Types
+  - Date/Time Types
+  - Boolean Type
+  - Geometric Types
+  - UUID Type
+  - JSON Types
+  - Arrays
 - [Indexes](https://www.postgresql.org/docs/15/indexes.html)
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - psql

@@ -31,4 +31,7 @@
   - __future__ — Future statement definitions
   - inspect — Inspect live objects
 
-#### Some of the sections listed above can be found on https://docs.python.org/3.11
+#### Some of the sections listed above can be found on:
+- https://docs.python.org/3.11/tutorial
+- https://docs.python.org/3.11/library
+- https://docs.python.org/3.11/reference
